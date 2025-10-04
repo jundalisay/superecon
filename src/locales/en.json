@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "a new": "A New",
+    "insaigon": "in Saigon",
+    "b1": "New",
+    "b2": "Schedule for 2025"    
+  },
+  "nav": {
+    "features": "Featuresss",
+    "testimonials": "Testimonials",
+    "team": "Team",
+    "contact": "Contact",
+    "faq": "FAQ"
+  },
+  "features": {
+    "showcase": {
+      "title": "Showcase Your Value",
+      "description": "Highlight how your product solves user problems."
+    },
+    "trust": {
+      "title": "Build Trust",
+      "description": "Leverages social proof elements to establish trust and credibility."
+    },
+    "leads": {
+      "title": "Capture Leads",
+      "description": "Make your lead capture form visually appealing and strategically."
+    }
+  },
+  "Economic Science": "Economic Science"
+}

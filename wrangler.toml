@@ -1,0 +1,21 @@
+name = "hoasen"
+compatibility_date = "2025-08-26"
+# main = ".svelte-kit/output/server/index.js"
+pages_build_output_dir = ".svelte-kit/cloudflare"
+#2 "workers-site/index.js"
+
+# [site]
+# bucket = ".svelte-kit/cloudflare"
+
+# bucket = ".svelte-kit/output/server/index.js"
+
+	# "compatibility_date": "2025-08-26",
+	# "compatibility_flags": [
+	# 	"nodejs_als"
+	# ],
+
+
+	# "observability": {
+	# 	"enabled": true
+	# }
+

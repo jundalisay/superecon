@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "a new": "",    
+    "insaigon": "ở Sài Gòn",
+    "b1": "Mới",
+    "b2": "Lịch trình cho năm 2025"
+  },
+  "nav": {
+    "features": "Tính Năng",
+    "testimonials": "Đánh Giá",
+    "team": "Đội Ngũ",
+    "contact": "Liên Hệ",
+    "faq": "Câu Hỏi Thường Gặp"
+  },
+  "features": {
+    "showcase": {
+      "title": "Thể Hiện Giá Trị",
+      "description": "Làm nổi bật cách sản phẩm của bạn giải quyết vấn đề của người dùng."
+    },
+    "trust": {
+      "title": "Xây Dựng Lòng Tin",
+      "description": "Tận dụng các yếu tố bằng chứng xã hội để thiết lập sự tin cậy."
+    },
+    "leads": {
+      "title": "Thu Hút Khách Hàng",
+      "description": "Làm cho biểu mẫu thu hút khách hàng của bạn hấp dẫn và có chiến lược."
+    }
+  },
+  "Economic Science": "Một khoa học kinh tế mới"
+}
