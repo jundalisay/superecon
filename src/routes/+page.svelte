@@ -1,5 +1,6 @@
 <script>
     import Benefits from "$lib/components/Benefits.svelte";
+    import Book from "$lib/components/Book.svelte";
     import Community from "$lib/components/Community.svelte";
     import Contact from "$lib/components/Contact.svelte";
     import Faq from "$lib/components/FAQ.svelte";
@@ -19,6 +20,7 @@
 <Hero />
 <!-- <Sponsors /> -->
 <Benefits />
+<Book />
 <Features />
 <Services />
 <!-- <HowItWorks /> -->

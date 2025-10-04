@@ -20,7 +20,7 @@
   import ToggleTheme from "$lib/components/ToggleTheme.svelte";
 
   // The data can now be simplified as it will be mapped from the JSON files
-  const routeKeys: string[] = ["testimonials", "team", "contact", "faq"];
+  const routeKeys: string[] = ["testimonials", "team", "book", "faq"];
   const featureKeys: string[] = ["showcase", "trust", "leads"];
 
   let isOpen = false;
@@ -56,9 +56,9 @@
   type RouteProps = { href: string; key: string };
 
   const routeList: RouteProps[] = [
+    { href: "#book", key: "nav.book" },
     { href: "#testimonials", key: "nav.testimonials" },
     { href: "#team", key: "nav.team" },
-    // { href: "#contact", key: "nav.contact" },
     // { href: "#faq", key: "nav.faq" },
   ];
 
